@@ -1,0 +1,23 @@
+.blog-tags-container, .blog-categories-container {
+    margin-top: 30px;
+    font-size: 20px;
+}
+.blog-tags-container span.glyphicon, .blog-categories-container span.glyphicon {
+    margin-right: 20px;
+}
+
+.blog-post-title-archive {
+    margin-bottom: 5px;
+    font-size: 25px;
+}
+
+.portfolio-img {
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    object-fit: none;
+    object-position: center;
+}
+
+
